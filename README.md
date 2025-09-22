@@ -143,13 +143,11 @@ Lack of consistent management, planning for storage/reservoirs, pollution contro
 
 ## OUTPUT
 ```
-ayya kovil 1.png
-ayya kovil 2.png
-ayya kovil 3.png
-infant jesus 2 (3).png
-infant jesus 2 (1).png
-kosathalaiyar.png
-```
-
+ayya kovil 1.jpg
+ayya kovil 2.jpg
+ayya kovil 3.jpg
+infant jesus 2 (1).jpg
+infant jesus 2 (3).jpg
+kosathalaiyar.jpg
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
