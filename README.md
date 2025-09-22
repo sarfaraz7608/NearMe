@@ -149,5 +149,6 @@ ayya kovil 3.jpg
 infant jesus 2 (1).jpg
 infant jesus 2 (3).jpg
 kosathalaiyar.jpg
+```
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
